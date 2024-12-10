@@ -17,7 +17,7 @@ GITHUB STATS
   
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sanriat&show_icons=true&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api?username=sanriat&show_icons=true&theme=red"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -30,7 +30,7 @@ GITHUB STATS
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanriat&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanriat&theme=red"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanriat" 
