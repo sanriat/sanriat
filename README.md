@@ -72,6 +72,9 @@
 </p>
 
 ---
+<div align="center">
+<img src="https://media1.tenor.com/m/y1QFa-1vyKYAAAAd/plink-wide-cat.gif" alt="Descrizione immagine" width="900" />
+</div>
 
 <div align="center">
   <h2>🚀 Hell yeah! 🚀</h2>
